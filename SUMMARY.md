@@ -20,7 +20,9 @@
 
 ## 通用
 
-* [Untitled](tong-yong/untitled.md)
+* [考勤](tong-yong/untitled.md)
+* [报销](tong-yong/bao-xiao.md)
+* [报表](tong-yong/bao-biao.md)
 
 ## 商贸企业
 
