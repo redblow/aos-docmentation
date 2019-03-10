@@ -8,6 +8,7 @@
 * [服务器](xi-tong-pei-zhi/fu-wu-qi.md)
 * [部署](xi-tong-pei-zhi/bu-shu.md)
 * [日常运维](xi-tong-pei-zhi/ri-chang-yun-wei.md)
+* [AOS 云服务](xi-tong-pei-zhi/aos-yun-fu-wu.md)
 
 ## 数据库初始化
 
